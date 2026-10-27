@@ -17,7 +17,7 @@ I'm a BTEC Level 3 IT graduate (DDM) from London, looking for an apprenticeship 
  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript - Learning](https://img.shields.io/badge/JavaScript (learning)-F7DF1E style=flat&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript_learning-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python - Learning](https://img.shields.io/badge/Python_(learning)-3776AB?style=flat&logo=python&logoColor=white)
  
 ## Get in touch
